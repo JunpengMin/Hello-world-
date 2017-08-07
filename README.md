@@ -1,2 +1,2 @@
-# Hello-world-
+# Hello-world
 My very first repository
